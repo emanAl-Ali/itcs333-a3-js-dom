@@ -127,4 +127,3 @@ document.addEventListener('DOMContentLoaded', function () {
 // Requirements: add / toggle-complete / delete / filter / counter,
 // using event delegation on #todo-list.
 
-// TODO: your code here
